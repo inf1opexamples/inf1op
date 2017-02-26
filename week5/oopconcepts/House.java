@@ -1,5 +1,7 @@
-public class House {
+package week5.oopconcepts;
+
+public class House implements Paintable{
   public void paint() {
-    System.out.print(".");
+    System.out.println("paints house");
   }
 }
