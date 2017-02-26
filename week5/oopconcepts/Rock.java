@@ -1,5 +1,7 @@
-public class Rock {
+
+package week5.oopconcepts;
+public class Rock implements Paintable{
   public void paint() {
-    System.out.print(".");
+    System.out.println("paints rock");
   }
 }
