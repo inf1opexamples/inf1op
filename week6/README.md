@@ -5,7 +5,9 @@ Some possible discussion topics to recap:
 
 - What is an interface?
 - What is an abstract class?
-- What is polymorphism?
+- What is polymorphism? When would you use it? (an example)
 - When would you override a method? (an example)
 - When would you use an interface? And an abstract class? (an example)
+- When would you use a static variable? And a static method? (an example)
 - What is an enumeration? When would you use an enumeration? (an example)
+
