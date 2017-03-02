@@ -2,7 +2,9 @@
 Hello! I hope you are well rested from the holiday! 
 
 Some possible discussion topics to recap:
+
 In your own words, 
+
 - what is an interface?
 - what is an abstract class?
 - what is polymorphism? When would you use it? (an example)
