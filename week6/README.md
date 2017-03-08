@@ -1,10 +1,16 @@
 #Discussion topics this week
-Hello! I hope you rested on this holidays! To recap on some earlier topics and start discussing new ones, we will have brief discussions for all to contribute. You can read up on the topics in the tutorial or (preferably) beforehand. 
+Hello! I hope you are well rested from the holiday! 
 
-- What is an interface?
-- What is an abstract class?
-- What is polymorphism?
-- When would you override a method? (an example)
-- When would you use an interface? And an abstract class? (an example)
-- What is an enumeration? When would you use an enumeration? (an example)
-#
+Some possible discussion topics to recap:
+
+In your own words, 
+
+- what is an interface?
+- what is an abstract class?
+- when would you use an interface? And an abstract class? (an example)
+- what is polymorphism? How would you implement it? When would you use it? (an example)
+- when would you use a static variable? And a static method? (an example)
+- when would you override a method? (an example)
+- what is an enumeration (enum)? When would you use an enumeration? (an example)
+- what is the "this" keyword used for?
+- how would you access superclass members from a subclass?
