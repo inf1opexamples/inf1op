@@ -1,4 +1,4 @@
-#Tiny exercise
+Tiny exercise
 
 Each student has a number of subjects, each subject is scored based on a number of assignments. Assume all the assignments for a subject are worth the same percentage. 
 
