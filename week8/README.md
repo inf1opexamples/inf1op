@@ -15,6 +15,9 @@ student 1
   - assignment2 60
   - assignment3 85
   
+  
+The goal is to model this with Java, and be able to do the following:
+  
 
 - get all of a student grades by subject (example print: Subject1: {assignment1: 65, assignment2: 80}, Subject2: {assignment1: 75}, Subject3: {assignment1: 75, assignment2: 60, assignment3: 85})
 
