@@ -1,4 +1,4 @@
-#Collections and strings
+# Collections and strings
 
 Some discussion topics for next topics on collections and generics
 
