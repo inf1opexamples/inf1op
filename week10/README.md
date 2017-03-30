@@ -1,6 +1,7 @@
 # On threads
 
 An introduction
+https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html 
 
 - Concurrency vs parallelism
 
